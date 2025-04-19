@@ -11,7 +11,7 @@
 - **Top Scores Sorting**: Scores are sorted by hits from high to low, and only the top 9 records are stored.
 - **Stylish Design**: The game features a clean interface with a scoreboard styled using modern CSS properties and animations.
 
-##Usage
+## How to play
 
 Gameplay
 Click the "Start" button to begin the game. A word will appear on the screen.
