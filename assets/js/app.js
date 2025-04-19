@@ -152,7 +152,7 @@ function displayTopScores() {
   
     if (scoreArray.length === 0) {
       scoreList.classList.add('empty');
-      scoreList.innerHTML = '<li>No histroy</li>';
+      scoreList.innerHTML = '<li>No history</li>';
       return;
     }
     scoreList.classList.remove('empty');
