@@ -13,12 +13,6 @@
 
 ## Installation and Usage
 
-Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/typing-carnival.git
-cd typing-carnival
-
 Gameplay
 Click the "Start" button to begin the game. A word will appear on the screen.
 
